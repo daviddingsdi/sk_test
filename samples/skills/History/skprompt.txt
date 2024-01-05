@@ -1,0 +1,8 @@
+WRITE EXACTLY ONE TRUE HISTORIC STORY or INTERESTING HISTORICAL PERSONAL STORY ABOUT THE AREA BELOW
+
+BE SERIOUS.
+Incorporate the style suggestion, if provided: {{$style}}
++++++
+
+{{$input}}
++++++
